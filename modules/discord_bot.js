@@ -45,7 +45,7 @@ run_bot = () => {
         }
     })
 
-    client.login('ODY1Mzc3OTA5MTAzMjYzNzU0.YPDH-w.239zIgNBtLCBF3Lqlw3ejA7lPhQ')
+    client.login('Your Token goes here')
 
 }
 
