@@ -1,0 +1,10 @@
+{
+	"prefix": "$",
+	"bot_info": {
+		"name": "Spaßi Spaß Bot",
+		"version": 2.0,
+		"Author": "Elias Binde",
+		"Funtionality":"Track money owed for bad jokes etc. per user"
+
+	}
+}
